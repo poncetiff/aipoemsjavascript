@@ -30,16 +30,16 @@
 
       <footer>
         This AI project was coded by
-        <a href="https://github.com/matthieua/" target="_blank">Tiffany Ponce</a>
+        <a href="https://github.com/poncetiff/" target="_blank">Tiffany Ponce</a>
         and is
         <a
-          href="https://github.com/shecodesio/poem-generator"
+          href="https://github.com/poncetiff/aipoemsjavascript"
           target="_blank"
         >
           open-sourced on GitHub</a
         >
         and is
-        <a href="https://ai-french-poem-generator.netlify.app/" target="_blank"
+        <a href="https://ai-poem-generator.netlify.app/" target="_blank"
           >hosted on Netlify</a
         >.
       </footer>
